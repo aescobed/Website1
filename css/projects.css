@@ -70,6 +70,29 @@ nav a:hover::before {
     color: rgb(25, 25, 94);
     font-size: 20px;
     margin-left: 100px;
-    margin-top: 200px;
+    margin-bottom: 400px;
 }
 
+#desc2 {
+    color: rgb(25, 25, 94);
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+#CADdesc {
+    color: rgb(25, 25, 94);
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 550px;
+}
+
+#Circuitrydesc {
+    color: rgb(25, 25, 94);
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 720px;
+    margin-bottom: 550px;
+}
